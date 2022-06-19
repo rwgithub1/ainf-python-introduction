@@ -20,3 +20,5 @@ b = cos(0.34*pi)
 c = a + b
 
 print(c) # Ausgabe des Ergebnisses
+#%%
+help(sin)
